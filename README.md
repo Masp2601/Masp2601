@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Angel Soto
 
-### Junior Fullstack and Mobile Developer
+### Fullstack and Mobile Developer
 
 - 👷🏻‍♂️ Freelancer
 
